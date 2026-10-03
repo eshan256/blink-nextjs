@@ -33,7 +33,7 @@ Requires Node.js 18.18 or newer.
 | A page's styles | `app/<page>/page.css` (scoped to that page only) |
 | A page's interactive behavior (forms, search, filters) | `app/<page>/page-script.js` |
 | Colors, fonts, buttons, header and footer styles | `app/globals.css` |
-| Browser tab icon | `app/icon.svg` |
+| Browser tab icon | `app/icon.png` |
 | Images | `public/images/` |
 | Redirects from old WordPress URLs | `next.config.mjs` |
 
